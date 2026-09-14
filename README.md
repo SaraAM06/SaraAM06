@@ -1,1 +1,2 @@
-Hola, soy Sara Antón, estudiando de desarrollo de aplicaciones multiplataforma.
+Nombre: Sara Antón Madero
+Máster: Inteligencia Artificial y Big Data
