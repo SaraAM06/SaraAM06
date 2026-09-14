@@ -1,2 +1,3 @@
 Nombre: Sara Antón Madero
-\nMáster: Inteligencia Artificial y Big Data
+  Máster: Inteligencia Artificial y Big Data
+  Centro: Tajamar Tech
